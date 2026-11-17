@@ -8,6 +8,8 @@ A modular, offline Python command-line assistant and cyberdeck utility suite fea
 - **Security & PIN Vault:** AES-encrypted local credential vault (`savepass`, `getpass`, `delpass`), strong password & hex key generator (`genpass`), LSB image steganography (`hide`, `reveal`), SHA-256 file hashing (`hash`), and idle auto-lock (`autolock`).
 - **Networking & Reconnaissance:** Multi-threaded subnet scanner with MAC vendor lookup, NetBIOS hostname resolution, ping latency, and open-port fingerprinting (`lanscan`), Wi-Fi telemetry (`netscan`), saved Wi-Fi key viewer (`wifipass`), USB/port monitors, and ping utility.
 - **Productivity & Tools:** Background spoken countdown timers (`timer`), clipboard history (`clips`), terminal ASCII QR code generator (`qr`), audible Morse & binary encoder (`morse`), math evaluator (`calc`), instant file/app launcher (`search`, `open`, `findapp`), and timestamped notes (`note`).
+- - **Cyberdeck Jukebox:** Background audio player (`music`, `play`, `pause`, `resume`, `stop`, `next`, `prev`, `shuffle`, `vol`, `nowplaying`, `musicdir`) supporting `.mp3`, `.wav`, `.ogg`, and `.flac` tracks.
+
 
 ## Cyberdeck & OS Compatibility Notice
 
