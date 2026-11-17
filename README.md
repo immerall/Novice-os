@@ -37,3 +37,11 @@ While **Novice OS v3.0** supports **Windows, Linux, and Raspberry Pi OS** cyberd
    ```bash
    python novice.py
    ```
+
+
+
+
+
+   <img width="1108" height="579" alt="image" src="https://github.com/user-attachments/assets/28cc7de7-8796-42ef-b606-157417de6a8c" />
+
+Novice starting page
