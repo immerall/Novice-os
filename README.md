@@ -26,7 +26,6 @@ While **Novice OS v3.0** supports **Windows, Linux, and Raspberry Pi OS** cyberd
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd Novice-os
    ```
 
 2. **Install Python dependencies:**
