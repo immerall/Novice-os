@@ -1,3 +1,4 @@
+
 pyttsx3
 psutil
 qrcode
@@ -5,3 +6,4 @@ pyperclip
 cryptography
 pillow
 SpeechRecognition
+pygame
