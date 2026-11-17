@@ -1,4 +1,4 @@
-# NOVICE OS v3.0 — Offline Cyberdeck CLI
+# NOVICE OS v3.1 — Offline Cyberdeck CLI
 
 A modular, offline Python command-line assistant and cyberdeck utility suite featuring text-to-speech feedback, AES-encrypted password storage, local network reconnaissance, image steganography, and system telemetry.
 
